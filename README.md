@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Rishab, a developer passionate about solving real world problems with the help of technology
+# 💫 Hi, I'm Rishab, welcome to my place:
+![home](https://rishabprojects.blob.core.windows.net/devops-qr1/14ae7ede205573466d68eb3a562fe349.gif)
 
 
 ## 🌐 Socials:
