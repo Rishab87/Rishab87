@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Rishab, welcome to my place:
+# 💫 Hi, I'm Rishab: 
 ![home](https://rishabprojects.blob.core.windows.net/devops-qr1/14ae7ede205573466d68eb3a562fe349.gif)
 
 
