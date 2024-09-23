@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Rishab: 
-![home](https://rishabprojects.blob.core.windows.net/devops-qr1/14ae7ede205573466d68eb3a562fe349.gif)
+![home](https://res.cloudinary.com/dz5uv6wp4/image/upload/f_auto,q_auto/v1/Personal/bs1inhn4lxkwvwbp9umh)
 
 
 ## 🌐 Socials:
